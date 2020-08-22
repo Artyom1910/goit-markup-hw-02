@@ -12,6 +12,10 @@ body {
   letter-spacing: 0.03em;
 }
 
+a {
+  text-decoration: none;
+}
+
 header {
   background: #ffffff;
 }
